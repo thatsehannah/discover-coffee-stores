@@ -1,0 +1,11 @@
+Let's have some fun with routing 🚀. Now that we learned about index routes, nested routes and dynamic routes. Let's go ahead and create a few routes.
+
+Create a route called localhost:3000/courses/nextjs so you should be able to route to localhost:3000/courses/nextjs and we should see a page rendered there with "Welcome to Next.js with Ankita" as text
+
+Create a dynamic route in the pages directory at localhost:3000 so you should be able go to localhost:3000/<dynamic-route> where dynamic-route can be anything
+
+Next, the page content should list the name of the dynamic route on the page itself i.e. we should see the text "Page foobar" rendered for a route localhost:3000/foobar
+
+Update the Page title of the dynamic route to be the name of the dynamic route so for example, for localhost:3000/ankita, the page title should say ankita or for Page foobar, the title should say foobar
+
+Have fun and good luck! 👍 
